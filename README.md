@@ -1,5 +1,5 @@
-<h1 align="center">Ciao👋, I'm Run Ji :D</h1>
-<h3 align="center">A developer with a passion for software and jazz.</h3>
+<h1 align="center">Hey👋, I'm Run Ji :D</h1>
+<h3 align="center">I have a passion for software development and I love jazz.</h3>
 
 <h3 align="left">Social:</h3>
 <p align="left">
